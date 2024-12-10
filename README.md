@@ -181,11 +181,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [TikTok Clone](https://youtu.be/4E4V9F3cbp4)
 - [Ticket Booking App](https://youtu.be/71AsYo2q_0Y)
 - [Travel App](https://youtu.be/x4DydJKVvQk)
+- [Twitter clone](https://youtu.be/XnxZLhtkFeg?si=LAhDzc0jxHAwJ_Fs)
 - [Twitch Clone](https://youtu.be/U9YKZrDX0CQ)
 - [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
 - [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
 - [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
 - [Netflix Clone](https://youtu.be/J8IFNKzs3TI)
+- [Voice assistant](https://youtu.be/Q_pz4xFow3Q?si=hfc638RSFAt9vsFb)
 
 ## Elixir
 
